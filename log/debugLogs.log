@@ -1,0 +1,7 @@
+INFO main com.au.reader.GalaxyInputReaderTest - test exception
+INFO main com.au.reader.GalaxyInputReader - Input file is : TestInput.txt
+INFO main com.au.reader.GalaxyInputReaderTest - test success
+INFO main com.au.reader.GalaxyInputReader - Input file is : TestInput.txt
+INFO main com.au.writer.OutputProcessorTest - Test fail display
+INFO main com.au.writer.OutputProcessorTest - Test success display
+INFO main com.au.reader.GalaxyInputReader - Input file is : TestInput.txt
